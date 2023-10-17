@@ -1,0 +1,18 @@
+{
+    "slogan1": "Those who do not remember the past!",
+    "slogan2": "are condemned to repeat it",
+    "searchField" : "Search",
+    "openingPrice" : "OP",
+    "closingPrice": "CP",
+    "margin":"Margin",
+    "leverage":"leverage",
+    "nameHint":"Enter the name of the traded currency",
+    "openPriceHint": "Opened price",
+    "closedPriceHint": "Closed price",
+    "description": "Description",
+    "saveButton": "Save",
+    "information" : "Information",
+    "toastMessage" :"fill blank fields"
+
+    }
+  

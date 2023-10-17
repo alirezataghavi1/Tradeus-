@@ -1,0 +1,18 @@
+{
+    "slogan1": "کسانی که گذشته را به خاطر نمی آورند",
+    "slogan2": "محکوم به تکرار آن هستند",
+    "searchField" : "جستجو",
+    "openingPrice" : "ق.خ",
+    "closingPrice": "ق.ف",
+    "margin":"سرمایه",
+    "leverage":"اهرم",
+    "nameHint":"اسم سهمی که معامله کردید را وارد کنید",
+    "openPriceHint": "قیمت خرید",
+    "closedPriceHint": "قیمت فروش",
+    "description": "توضیحات",
+    "saveButton": "ذخیره",
+    "information" : "اطلاعات",
+    "toastMessage" :"قسمت های خالی را پر کنید"
+
+    }
+  
